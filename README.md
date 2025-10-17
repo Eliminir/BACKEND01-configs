@@ -5,3 +5,8 @@
 ## Содержимое:
 - Apache2
 - MySQL
+- Prometheus
+- Grafana
+
+На новой тачке запускаем сначала скрипт  VOSTANOVLENIE.sh, затем
+VOSTANOVLENIE_BACKUP.sh
