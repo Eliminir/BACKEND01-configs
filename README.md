@@ -15,7 +15,15 @@
 ### Шаг 1: Распаковка архивов
 
 tar -xzf node_exporter_backup.tar.gz
+
 tar -xzf prometheus_backup.tar.gz
+
 tar -xzf prometheus_backup_original.tar.gz
 
 ### Шаг 1: Запуск скриптов
+
+VOSTANOVLENIE_MONITORING.sh
+
+VOSTANOVLENIE.sh
+
+master_setup.sh
